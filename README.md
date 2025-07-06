@@ -13,4 +13,4 @@ The app will take in the following variables:
 - Dates players are not available
 - How many games there are in the season
 
-The app will then output an excel sheet that gives everyone a fair go through out the season. 
+The app will then output an excel sheet that gives everyone a fair go through out the season, assigning 4 players to a game. 
